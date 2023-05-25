@@ -3,7 +3,7 @@
 #
 cmake_minimum_required (VERSION 3.8)
 
-project ("ShantzCMake")
+project ("DistributedComputing")
 
 # Include sub-projects.
-add_subdirectory ("ShantzCMake")
+add_subdirectory ("Server")
